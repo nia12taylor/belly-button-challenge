@@ -9,5 +9,5 @@ Repo for UC Berkeley Data Analytics Bootcamp
 ## Description
 The original study examined the microbial diversity in the navels of 153 individuals. The researchers provided their dat to the public in several formats, including JSON.
 ## Visualization
-- Link the deployed GitHub page:
+- Link the deployed GitHub page: https://nia12taylor.github.io/belly-button-challenge/
 - A dropdown menu is created and populated with the unique ID for each of the 153 individuals in the study
